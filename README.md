@@ -14,7 +14,3 @@ This project focuses on Endpoint Detection and Response (EDR) concepts applied t
 - Pandas (Data Preprocessing & Time-Series Analysis)
 - Scikit-Learn (Isolation Forest for Anomaly Detection)
 - Matplotlib & Seaborn (Heatmaps and Time-Series Visualization)
-
-## Team
-- Yahia Abulibdeh 
-- Mohammad Faris
